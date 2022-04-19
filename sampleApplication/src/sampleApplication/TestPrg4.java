@@ -7,8 +7,6 @@ public class TestPrg4 {
 		int ldigit = x%10;
 		System.out.println("x value is : " + x);
 		System.out.println("last digit : " + ldigit );
-
-
 	}
 
 }
